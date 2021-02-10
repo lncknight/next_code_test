@@ -5,7 +5,7 @@ yarn dev
 
 # heroku deploy
 ```
-APP_NAME=lncknight-code-test
+APP_NAME=frozen-oasis-04157
 heroku create -a $APP_NAME
 heroku stack:set container
 
