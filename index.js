@@ -22,6 +22,18 @@ let users = [
     name: 'admin',
     pass: 'demo1234'
   },
+  {
+    name: 'candidate-1024',
+    pass: 'yD74534SXFdFRqW'
+  },
+  {
+    name: 'candidate-2049',
+    pass: 'kH4Xs6bJKv2QeU7'
+  },
+  {
+    name: 'candidate-1028',
+    pass: 'kH4Xs6bJK'
+  },
 ]
 
 
